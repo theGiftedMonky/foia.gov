@@ -7,3 +7,6 @@
 ### React Routing location for CFO pages.
 React routes are set up in the js/chief_foia_officers_council.jsx page.
 It uses the basename of "chief-foia-officers-council". Everything else is dynamically built off of that route.
+
+### Notes:
+- When adding a committee, meeting, or new CFO Page and for some reason it does not display on the frontend, clear the FOIA-API drupal cache.
